@@ -20,3 +20,4 @@ o	Enabled data-driven decision-making for stakeholders in the hospitality sector
 This project was a fantastic opportunity to apply my data analysis and Power BI skills to solve real-world challenges in hospitality domain.
 
 ## Dashboard Snapshot:
+https://github.com/Shahidmominonline/AtliQ-Grands-Hospitality-Domain-PowerBI-Project-/commit/6ac4b599fa952c5242c44b13399b98a6a6691ec3
